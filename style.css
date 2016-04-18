@@ -1,9 +1,7 @@
 body {
 	background-color: #0000ff;
 	color: #fff;
-	font-family: Arial; 
-	background-image: url(ChrisPaul.jpg);
-
+	font-family: Arial;
 }
  
 article {
@@ -82,4 +80,15 @@ main {
 #BlakeGriffin {
 	width: 75%;
 	height: 75%;
+}
+
+#football{
+	background-image: url(Images/odellbeckham.jpg);
+	
+}
+
+#mmafighter{
+	background-image: url(Images/jonjones.jpg);
+	
+	
 }
