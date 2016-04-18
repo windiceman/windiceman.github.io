@@ -2,6 +2,7 @@ body {
 	background-color: #0000ff;
 	color: #fff;
 	font-family: Arial; 
+	background-image: url(ChrisPaul.jpg);
 
 }
  
@@ -29,6 +30,7 @@ header {
 header h1 {
 	text-align: center;
 	margin-top: 10px;
+	text-decoration-color: 
 }
 
 header h2 {
